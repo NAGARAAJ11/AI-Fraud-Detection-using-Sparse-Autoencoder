@@ -1,0 +1,15 @@
+# Ignore dataset
+dataset/
+*.csv
+
+# Ignore model files
+*.h5
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
